@@ -11,7 +11,6 @@
   <a href="https://github.com/rzhevvskaaya">
     <img src="https://img.shields.io/badge/GitHub-rzhevvskaaya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Phone-%2B86%2015608653103-6C63FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </p>
 
 ---
