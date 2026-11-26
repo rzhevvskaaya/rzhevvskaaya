@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rzhevvskaaya&label=Profile%20views&color=6C63FF&style=flat-square" alt="Profile views" />
-</p>
-
-<p align="center">
   </a>
   <a href="https://github.com/rzhevvskaaya">
     <img src="https://img.shields.io/badge/GitHub-rzhevvskaaya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
