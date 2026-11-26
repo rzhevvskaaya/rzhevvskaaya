@@ -4,12 +4,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rzhevvskaaya&label=Profile%20views&color=6C63FF&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/rzhevvskaaya?label=Followers&style=flat-square&color=6C63FF" alt="Followers" />
 </p>
 
 <p align="center">
-  <a href="mailto:rzhevvskaaya@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-rzhevvskaaya@yandex.ru-6C63FF?style=for-the-badge&logo=yandex&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/rzhevvskaaya">
     <img src="https://img.shields.io/badge/GitHub-rzhevvskaaya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -26,7 +23,7 @@
 ```yaml
 name: Aleksandra Rzhevskaia
 role: Software Developer & AI Researcher
-location: ITMO University, Russia 🇷🇺
+location: ITMO University
 studying:
   - Master's in Artificial Intelligence & Behavioral Economics (2025–2027)
   - Exchange: Computer Science @ Abdullah Gül University, Türkiye 🇹🇷
