@@ -11,7 +11,7 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
@@ -29,3 +29,10 @@ interests:
   - Multi-Agent Systems
   - Data Analytics
   - Technology-driven Problem Solving
+
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rzhevvskaaya/rzhevvskaaya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
